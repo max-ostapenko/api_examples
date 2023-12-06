@@ -3,7 +3,7 @@
 ## Contents
 
 1. GA4 JS Client (Data API v1beta)
-   - go to `index.html`
+   - go to [https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html](https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html)
    - insert your CLIENT_ID
    - press `Authorize` button
 
@@ -36,7 +36,7 @@
                 "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
                 "client_secret": ...,
                 "redirect_uris": [
-                "https://max-ostapenko.github.io/api_examples/examples/ga4_client_js",
+                "https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html",
                 "https://localhost/oauth2callback"
                 ],
                 "javascript_origins": [
