@@ -1,8 +1,8 @@
-# API examples
+# Google API examples
 
 ## Contents
 
-1. GA4 JS Client (Data API v1beta)
+1. JS Client (GA4 Data API v1beta)
    - go to [https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html](https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html)
    - insert your CLIENT_ID
    - press `Authorize` button
