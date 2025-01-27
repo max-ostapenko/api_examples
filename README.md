@@ -2,13 +2,17 @@
 
 ## Contents
 
-1. JS Client (GA4 Data API v1beta)
-   - go to [https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html](https://max-ostapenko.github.io/api_examples/examples/ga4_client_js/data_api.html)
+1. Python Notebook
+
+   <a href="https://colab.research.google.com/github/max-ostapenko/api_examples/blob/main/examples/python_notebook/user_auth_client_secret.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+2. JS web client
+   - go to [https://max-ostapenko.github.io/api_examples/examples/user_auth_static_html/user_auth_client_secret.html](https://max-ostapenko.github.io/api_examples/examples/user_auth_static_html/user_auth_client_secret.html)
    - insert your CLIENT_ID
    - press `Authorize` button
 
-2. Python server (Management API v1)
-   - insert 'client_secret.json' file into the example folder
+3. Python web application
+   - insert 'client_secret.json' file into [the folder](./examples/python_webapp)
    - run:
 
         ```bash
